@@ -1,1 +1,1 @@
-Hello world
+This is an in-progress project for Math 456.
