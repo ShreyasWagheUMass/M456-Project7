@@ -1,0 +1,5 @@
+1. Distance matrix: 137x137 2d array
+Access as pd.read_json('dist_mat.json').to_numpy()
+
+2.
+
