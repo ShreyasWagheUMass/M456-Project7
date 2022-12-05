@@ -1,0 +1,1784 @@
+{
+    "0": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.07988309860229492,
+            "Work": 0.009664164612575389,
+            "ObjVal": 97405,
+            "ObjBound": 97405,
+            "ObjBoundC": 97405,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 3.552713678800501e-15,
+            "IterCount": 906,
+            "BarIterCount": 0,
+            "NodeCount": 155,
+            "SolCount": 6,
+            "PoolObjBound": 97405,
+            "PoolObjVal": [
+                97405,
+                97418,
+                97519,
+                100101,
+                115451,
+                226239
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,2]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5
+            },
+            {
+                "VarName": "u[3]",
+                "X": 4
+            },
+            {
+                "VarName": "u[4]",
+                "X": 3
+            },
+            {
+                "VarName": "u[5]",
+                "X": 7.9999999999999964
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            }
+        ]
+    },
+    "1": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.07330012321472168,
+            "Work": 0.010603010617115442,
+            "ObjVal": 102862,
+            "ObjBound": 102862,
+            "ObjBoundC": 102862,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 999,
+            "BarIterCount": 0,
+            "NodeCount": 191,
+            "SolCount": 3,
+            "PoolObjBound": 102862,
+            "PoolObjVal": [
+                102862,
+                103022,
+                184055
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,1]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 7
+            },
+            {
+                "VarName": "u[2]",
+                "X": 2
+            },
+            {
+                "VarName": "u[3]",
+                "X": 6
+            },
+            {
+                "VarName": "u[4]",
+                "X": 5
+            },
+            {
+                "VarName": "u[5]",
+                "X": 9
+            },
+            {
+                "VarName": "u[6]",
+                "X": 5
+            }
+        ]
+    },
+    "2": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 163.1485412120819,
+            "Work": 118.75415233222014,
+            "ObjVal": 456188,
+            "ObjBound": 456188,
+            "ObjBoundC": 456187.95214040246,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 20764195,
+            "BarIterCount": 0,
+            "NodeCount": 2511638,
+            "SolCount": 10,
+            "PoolObjBound": 456187.95214040246,
+            "PoolObjVal": [
+                456188,
+                457395,
+                458089,
+                458746,
+                458834,
+                460446,
+                460785,
+                461353,
+                461455,
+                482350
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,9]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,8]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,7]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[7,10]",
+                "X": 1
+            },
+            {
+                "VarName": "x[8,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[9,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[10,11]",
+                "X": 1
+            },
+            {
+                "VarName": "x[11,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 3
+            },
+            {
+                "VarName": "u[1]",
+                "X": 4
+            },
+            {
+                "VarName": "u[2]",
+                "X": 2
+            },
+            {
+                "VarName": "u[3]",
+                "X": 1
+            },
+            {
+                "VarName": "u[4]",
+                "X": 8
+            },
+            {
+                "VarName": "u[5]",
+                "X": 8
+            },
+            {
+                "VarName": "u[6]",
+                "X": 5
+            },
+            {
+                "VarName": "u[7]",
+                "X": 3
+            },
+            {
+                "VarName": "u[8]",
+                "X": 7
+            },
+            {
+                "VarName": "u[9]",
+                "X": 2
+            },
+            {
+                "VarName": "u[10]",
+                "X": 5
+            },
+            {
+                "VarName": "u[11]",
+                "X": 9
+            }
+        ]
+    },
+    "3": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.8289048671722412,
+            "Work": 0.29967111971050336,
+            "ObjVal": 338160,
+            "ObjBound": 338160,
+            "ObjBoundC": 338160,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 124505,
+            "BarIterCount": 0,
+            "NodeCount": 22218,
+            "SolCount": 4,
+            "PoolObjBound": 338160,
+            "PoolObjVal": [
+                338160,
+                342852,
+                350959,
+                745547
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,7]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,8]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[7,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[8,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 8
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5
+            },
+            {
+                "VarName": "u[3]",
+                "X": 6
+            },
+            {
+                "VarName": "u[4]",
+                "X": 9
+            },
+            {
+                "VarName": "u[5]",
+                "X": 5
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            },
+            {
+                "VarName": "u[7]",
+                "X": 2
+            },
+            {
+                "VarName": "u[8]",
+                "X": 8
+            }
+        ]
+    },
+    "4": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.19497895240783691,
+            "Work": 0.024848953434884972,
+            "ObjVal": 194285,
+            "ObjBound": 194285,
+            "ObjBoundC": 194285,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7106,
+            "BarIterCount": 0,
+            "NodeCount": 1936,
+            "SolCount": 3,
+            "PoolObjBound": 194285,
+            "PoolObjVal": [
+                194285,
+                219086,
+                526500
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,2]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5
+            },
+            {
+                "VarName": "u[3]",
+                "X": 9
+            },
+            {
+                "VarName": "u[4]",
+                "X": 3
+            },
+            {
+                "VarName": "u[5]",
+                "X": 8
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            }
+        ]
+    },
+    "5": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.1900038719177246,
+            "Work": 0.029196730726182517,
+            "ObjVal": 161225,
+            "ObjBound": 161225,
+            "ObjBoundC": 161225,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7537,
+            "BarIterCount": 0,
+            "NodeCount": 2147,
+            "SolCount": 5,
+            "PoolObjBound": 161225,
+            "PoolObjVal": [
+                161225,
+                163657,
+                164110,
+                191340,
+                512976
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 8
+            },
+            {
+                "VarName": "u[3]",
+                "X": 3
+            },
+            {
+                "VarName": "u[4]",
+                "X": 9
+            },
+            {
+                "VarName": "u[5]",
+                "X": 6
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            }
+        ]
+    },
+    "6": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.14363813400268555,
+            "Work": 0.024475955927387563,
+            "ObjVal": 152834,
+            "ObjBound": 152834,
+            "ObjBoundC": 152834,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 8.881784197001252e-16,
+            "IterCount": 7288,
+            "BarIterCount": 0,
+            "NodeCount": 1893,
+            "SolCount": 6,
+            "PoolObjBound": 152834,
+            "PoolObjVal": [
+                152834,
+                153022,
+                154865,
+                156670,
+                156677,
+                438673
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 3.666666666666666
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5.666666666666666
+            },
+            {
+                "VarName": "u[3]",
+                "X": 4
+            },
+            {
+                "VarName": "u[4]",
+                "X": 1.666666666666667
+            },
+            {
+                "VarName": "u[5]",
+                "X": 3
+            },
+            {
+                "VarName": "u[6]",
+                "X": 7
+            }
+        ]
+    },
+    "7": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.18983197212219238,
+            "Work": 0.027930405419921447,
+            "ObjVal": 176536,
+            "ObjBound": 176536,
+            "ObjBoundC": 176536,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 6893,
+            "BarIterCount": 0,
+            "NodeCount": 1770,
+            "SolCount": 2,
+            "PoolObjBound": 176536,
+            "PoolObjVal": [
+                176536,
+                484772
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 4
+            },
+            {
+                "VarName": "u[3]",
+                "X": 5
+            },
+            {
+                "VarName": "u[4]",
+                "X": 6
+            },
+            {
+                "VarName": "u[5]",
+                "X": 4
+            },
+            {
+                "VarName": "u[6]",
+                "X": 9
+            }
+        ]
+    },
+    "8": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.14957904815673828,
+            "Work": 0.025741982438656313,
+            "ObjVal": 183769,
+            "ObjBound": 183769,
+            "ObjBoundC": 183769,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7333,
+            "BarIterCount": 0,
+            "NodeCount": 2025,
+            "SolCount": 6,
+            "PoolObjBound": 183769,
+            "PoolObjVal": [
+                183769,
+                187838,
+                188653,
+                188893,
+                197278,
+                498026
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 3
+            },
+            {
+                "VarName": "u[2]",
+                "X": 9
+            },
+            {
+                "VarName": "u[3]",
+                "X": 7
+            },
+            {
+                "VarName": "u[4]",
+                "X": 1
+            },
+            {
+                "VarName": "u[5]",
+                "X": 6
+            },
+            {
+                "VarName": "u[6]",
+                "X": 4
+            }
+        ]
+    },
+    "9": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.1374969482421875,
+            "Work": 0.026160784231325656,
+            "ObjVal": 216760,
+            "ObjBound": 216760,
+            "ObjBoundC": 216760,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7779,
+            "BarIterCount": 0,
+            "NodeCount": 2217,
+            "SolCount": 7,
+            "PoolObjBound": 216760,
+            "PoolObjVal": [
+                216760,
+                217177,
+                221429,
+                227178,
+                229310,
+                241804,
+                568976
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 6
+            },
+            {
+                "VarName": "u[2]",
+                "X": 9
+            },
+            {
+                "VarName": "u[3]",
+                "X": 1
+            },
+            {
+                "VarName": "u[4]",
+                "X": 7
+            },
+            {
+                "VarName": "u[5]",
+                "X": 4
+            },
+            {
+                "VarName": "u[6]",
+                "X": 9
+            }
+        ]
+    },
+    "10": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.14815402030944824,
+            "Work": 0.026171394849927084,
+            "ObjVal": 182297,
+            "ObjBound": 182297,
+            "ObjBoundC": 182297,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7239,
+            "BarIterCount": 0,
+            "NodeCount": 1948,
+            "SolCount": 5,
+            "PoolObjBound": 182297,
+            "PoolObjVal": [
+                182297,
+                184656,
+                185709,
+                205238,
+                505033
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,1]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 8
+            },
+            {
+                "VarName": "u[2]",
+                "X": 2
+            },
+            {
+                "VarName": "u[3]",
+                "X": 3
+            },
+            {
+                "VarName": "u[4]",
+                "X": 9
+            },
+            {
+                "VarName": "u[5]",
+                "X": 3
+            },
+            {
+                "VarName": "u[6]",
+                "X": 6
+            }
+        ]
+    },
+    "11": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.16843199729919434,
+            "Work": 0.024749224446099238,
+            "ObjVal": 156245,
+            "ObjBound": 156245,
+            "ObjBoundC": 156245,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 7275,
+            "BarIterCount": 0,
+            "NodeCount": 1899,
+            "SolCount": 8,
+            "PoolObjBound": 156245,
+            "PoolObjVal": [
+                156245,
+                156319,
+                157060,
+                168460,
+                168870,
+                168911,
+                228400,
+                443467
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 8
+            },
+            {
+                "VarName": "u[3]",
+                "X": 3
+            },
+            {
+                "VarName": "u[4]",
+                "X": 9
+            },
+            {
+                "VarName": "u[5]",
+                "X": 6
+            },
+            {
+                "VarName": "u[6]",
+                "X": 6.000000000000001
+            }
+        ]
+    },
+    "12": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.15140604972839355,
+            "Work": 0.024635691703252104,
+            "ObjVal": 155560,
+            "ObjBound": 155560,
+            "ObjBoundC": 155560,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 6013,
+            "BarIterCount": 0,
+            "NodeCount": 1529,
+            "SolCount": 5,
+            "PoolObjBound": 155560,
+            "PoolObjVal": [
+                155560,
+                155941,
+                156132,
+                176573,
+                469023
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,1]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 6
+            },
+            {
+                "VarName": "u[2]",
+                "X": 2
+            },
+            {
+                "VarName": "u[3]",
+                "X": 3
+            },
+            {
+                "VarName": "u[4]",
+                "X": 1
+            },
+            {
+                "VarName": "u[5]",
+                "X": 9
+            },
+            {
+                "VarName": "u[6]",
+                "X": 4
+            }
+        ]
+    },
+    "13": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.1586921215057373,
+            "Work": 0.021795752057119436,
+            "ObjVal": 149917,
+            "ObjBound": 149917,
+            "ObjBoundC": 149917,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 3048,
+            "BarIterCount": 0,
+            "NodeCount": 607,
+            "SolCount": 8,
+            "PoolObjBound": 149917,
+            "PoolObjVal": [
+                149917,
+                150418,
+                150604,
+                155996,
+                158011,
+                158740,
+                158809,
+                350805
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 3
+            },
+            {
+                "VarName": "u[2]",
+                "X": 8
+            },
+            {
+                "VarName": "u[3]",
+                "X": 1
+            },
+            {
+                "VarName": "u[4]",
+                "X": 6
+            },
+            {
+                "VarName": "u[5]",
+                "X": 6
+            },
+            {
+                "VarName": "u[6]",
+                "X": 9
+            }
+        ]
+    },
+    "14": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.23608994483947754,
+            "Work": 0.02997116672223295,
+            "ObjVal": 189299,
+            "ObjBound": 189299,
+            "ObjBoundC": 189299,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 5301,
+            "BarIterCount": 0,
+            "NodeCount": 1265,
+            "SolCount": 7,
+            "PoolObjBound": 189299,
+            "PoolObjVal": [
+                189299,
+                189502,
+                189519,
+                189541,
+                190060,
+                232407,
+                409057
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 9
+            },
+            {
+                "VarName": "u[3]",
+                "X": 6
+            },
+            {
+                "VarName": "u[4]",
+                "X": 7
+            },
+            {
+                "VarName": "u[5]",
+                "X": 5
+            },
+            {
+                "VarName": "u[6]",
+                "X": 8
+            }
+        ]
+    },
+    "15": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 38.886439085006714,
+            "Work": 21.73291017807315,
+            "ObjVal": 582815,
+            "ObjBound": 582815,
+            "ObjBoundC": 582814.9821879183,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 8091561,
+            "BarIterCount": 0,
+            "NodeCount": 1176503,
+            "SolCount": 8,
+            "PoolObjBound": 582814.9821879183,
+            "PoolObjVal": [
+                582815,
+                582815,
+                582815,
+                584555,
+                586278,
+                611811,
+                717312,
+                1506619
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,7]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,8]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,9]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[7,10]",
+                "X": 1
+            },
+            {
+                "VarName": "x[8,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[9,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[10,0]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 3
+            },
+            {
+                "VarName": "u[1]",
+                "X": 5
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5
+            },
+            {
+                "VarName": "u[3]",
+                "X": 9
+            },
+            {
+                "VarName": "u[4]",
+                "X": 8
+            },
+            {
+                "VarName": "u[5]",
+                "X": 3
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            },
+            {
+                "VarName": "u[7]",
+                "X": 2
+            },
+            {
+                "VarName": "u[8]",
+                "X": 8
+            },
+            {
+                "VarName": "u[9]",
+                "X": 7
+            },
+            {
+                "VarName": "u[10]",
+                "X": 4
+            }
+        ]
+    },
+    "16": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 1.2555270195007324,
+            "Work": 0.6790069333595488,
+            "ObjVal": 414027,
+            "ObjBound": 414027,
+            "ObjBoundC": 414027,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 194737,
+            "BarIterCount": 0,
+            "NodeCount": 30995,
+            "SolCount": 5,
+            "PoolObjBound": 414027,
+            "PoolObjVal": [
+                414027,
+                414060,
+                428889,
+                597078,
+                1461458
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,8]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,4]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,7]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[7,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[8,1]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 5
+            },
+            {
+                "VarName": "u[2]",
+                "X": 8
+            },
+            {
+                "VarName": "u[3]",
+                "X": 6
+            },
+            {
+                "VarName": "u[4]",
+                "X": 9
+            },
+            {
+                "VarName": "u[5]",
+                "X": 6
+            },
+            {
+                "VarName": "u[6]",
+                "X": 3
+            },
+            {
+                "VarName": "u[7]",
+                "X": 8
+            },
+            {
+                "VarName": "u[8]",
+                "X": 3
+            }
+        ]
+    },
+    "17": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 2.494547128677368,
+            "Work": 1.0749195292627665,
+            "ObjVal": 211289,
+            "ObjBound": 211289,
+            "ObjBoundC": 211289,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 472727,
+            "BarIterCount": 0,
+            "NodeCount": 98086,
+            "SolCount": 5,
+            "PoolObjBound": 211289,
+            "PoolObjVal": [
+                211289,
+                211835,
+                302410,
+                316386,
+                792000
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,5]",
+                "X": 1
+            },
+            {
+                "VarName": "x[0,7]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,6]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,2]",
+                "X": 1
+            },
+            {
+                "VarName": "x[4,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[5,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[6,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[7,8]",
+                "X": 1
+            },
+            {
+                "VarName": "x[8,4]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 2
+            },
+            {
+                "VarName": "u[1]",
+                "X": 5
+            },
+            {
+                "VarName": "u[2]",
+                "X": 9
+            },
+            {
+                "VarName": "u[3]",
+                "X": 7
+            },
+            {
+                "VarName": "u[4]",
+                "X": 6
+            },
+            {
+                "VarName": "u[5]",
+                "X": 3
+            },
+            {
+                "VarName": "u[6]",
+                "X": 8
+            },
+            {
+                "VarName": "u[7]",
+                "X": 2
+            },
+            {
+                "VarName": "u[8]",
+                "X": 5
+            }
+        ]
+    },
+    "18": {
+        "SolutionInfo": {
+            "Status": 2,
+            "Runtime": 0.02183985710144043,
+            "Work": 0.00018754489459988548,
+            "ObjVal": 105018,
+            "ObjBound": 105018,
+            "ObjBoundC": 105018,
+            "MIPGap": 0,
+            "IntVio": 0,
+            "BoundVio": 0,
+            "ConstrVio": 0,
+            "IterCount": 14,
+            "BarIterCount": 0,
+            "NodeCount": 1,
+            "SolCount": 2,
+            "PoolObjBound": 105018,
+            "PoolObjVal": [
+                105018,
+                299226
+            ]
+        },
+        "Vars": [
+            {
+                "VarName": "x[0,1]",
+                "X": 1
+            },
+            {
+                "VarName": "x[1,3]",
+                "X": 1
+            },
+            {
+                "VarName": "x[2,0]",
+                "X": 1
+            },
+            {
+                "VarName": "x[3,2]",
+                "X": 1
+            },
+            {
+                "VarName": "L",
+                "X": 1
+            },
+            {
+                "VarName": "u[1]",
+                "X": 2
+            },
+            {
+                "VarName": "u[2]",
+                "X": 5
+            },
+            {
+                "VarName": "u[3]",
+                "X": 3
+            }
+        ]
+    }
+}
